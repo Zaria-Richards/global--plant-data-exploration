@@ -1,4 +1,4 @@
-# Exploration Data Analysis: Gloabl Power Plant Dataset
+# Exploration Data Analysis: Global Power Plant Dataset
 
 ## Project Overview
 
@@ -41,5 +41,6 @@ The focus is on **understanding the dataset**, not cleaning or modeling.
    ```bash
    pip install -r requirements.txt
 3. jupyter notebook notebooks/exploration.ipynb
+
 
 
