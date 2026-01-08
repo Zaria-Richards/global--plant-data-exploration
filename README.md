@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-## Dataset Used
+### Dataset Used
 **Global Power Plant Database**
 
 the data set contains information on power plants arounf the world, including:
@@ -14,7 +14,7 @@ the data set contains information on power plants arounf the world, including:
 the dataset includes a mix and numerical and catigorcal feature and contains missing values, making it suitable or EDA practice.
 
 ---
-## What Was Done
+### What Was Done
 
 Within the notbook the following steps where done:
 
@@ -28,17 +28,18 @@ Within the notbook the following steps where done:
  
 The focus is on **understanding the dataset**, not cleaning or modeling.
 ---
-## Tools & Libraries
+### Tools & Libraries
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 - Jupyter Notebook
 ---
-## How to Run
+### How to Run
 1. Clone the repository
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
 3. jupyter notebook notebooks/exploration.ipynb
+
 
