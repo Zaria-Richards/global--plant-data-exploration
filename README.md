@@ -1,8 +1,8 @@
 # Exploration Data Analysis: Gloabl Power Plant Dataset
 
-##Project Overview
+## Project Overview
 
-##Dataset Used
+## Dataset Used
 **Global Power Plant Database**
 
 the data set contains information on power plants arounf the world, including:
@@ -41,3 +41,4 @@ The focus is on **understanding the dataset**, not cleaning or modeling.
    ```bash
    pip install -r requirements.txt
 3. jupyter notebook notebooks/exploration.ipynb
+
